@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/21h-152-modern-china-spring-2022/mit21h_152s22_moodforlove.pdf
+file_size: 141690
 file_type: application/pdf
 image_metadata:
   caption: ''
