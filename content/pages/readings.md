@@ -287,7 +287,7 @@ The Communist Revolution
 
 Esherick, Joseph W. “[Ten Theses on the Chinese Revolution](https://www.jstor.org/stable/189282?seq=1).” *Modern China* 21, no. 1 (1995): 45–76.
 
-Arranz, Adolfo. “[How the Forbidden City’s Treasures Ended Up Divided between Beijing and Taipei](https://sg.news.yahoo.com/forbidden-city-treasures-ended-divided-123043224.html),” *South China Morning Post*, February 3, 2019.
+Arranz, Adolfo. “[How the Forbidden City’s Treasures Ended Up Divided between Beijing and Taipei](https://www.scmp.com/news/china/article/2184268/how-forbidden-citys-treasures-ended-divided-between-beijing-and-taipei),” *South China Morning Post*, February 3, 2019.
 
 Skinner, G. William. *Rural China on the Eve of Revolution: Sichuan Fieldnotes, 1949–1950*. Edited by Stevan Harrell and William Lavely. University of Washington Press, 2016, pp. vii–xii*,* 3–40, 191–211, and 219–32. ISBN: ‎9780295999418. \[Preview with [Google Books](https://www.google.com/books/edition/Rural_China_on_the_Eve_of_Revolution/xo4ODgAAQBAJ?hl=en&gbpv=1)\]
 
