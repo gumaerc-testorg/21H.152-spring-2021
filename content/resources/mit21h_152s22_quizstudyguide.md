@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: ''
-file: /ol-ocw-studio-app/courses/21h-152-modern-china-spring-2022/mit21h_152s22_quizstudyguide.pdf
+file: courses/modern-china/mit21h_152s22_quizstudyguide.pdf
 file_size: 107231
 file_type: application/pdf
 image_metadata:
